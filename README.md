@@ -1,6 +1,21 @@
 # Financial_BI_HadoopTechnique
 training 20171125
 
+useful links official site
+http://hadoop.apache.org
+http://hadoop.hbase.org
+spark
+hbase
+redis
+http://pan.baidu.com/s/1dEULcLN  pwd:45bz
+QQ: 50926571
+
+big data architect performance (forein official sites, CSDN)
+data extraction 
+data analysis (application: business, algo: math, statistic, python/ML skelearn)
+National Big Data white book
+jikebang
+
 Questions:
 1. hadoop的核心组件hdfs,yarn,MR做为数据平台优势？
 
@@ -13,7 +28,8 @@ Questions:
 #author:zhangyuelei
 #date:
 #提示:请将sysdate换成练习操作日期yyyymmdd,
-#      yourname更改为你的名字拼音，例如zhangyuelei
+
+#yourname更改为你的名字拼音，例如zhangyuelei
 #-------------------------------
 
 
