@@ -136,8 +136,8 @@ sqoop import --connect jdbc:mysql://slave02:3306/yinlian --table TBL_TRANS --hba
 #business:practise hadoop 
 #author:yuanmin
 #date:
-#提示:请将sysdate换成练习操作日期yyyymmdd,
-#      yourname或yuanmin更改为你的名字拼音，例如yuanmin
+#提示:请将sysdate换成练习操作日期yyyymmdd
+#yourname或yuanmin更改为你的名字拼音，例如yuanmin
 #-------------------------------
 
 ----hive 各种表构建方式练习--
