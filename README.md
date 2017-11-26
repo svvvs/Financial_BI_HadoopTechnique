@@ -2,9 +2,13 @@
 training 20171125
 
 useful links official site
+
 http://hadoop.apache.org
+
 http://hadoop.hbase.org
+
 spark
+
 hbase
 redis
 http://pan.baidu.com/s/1dEULcLN  pwd:45bz
